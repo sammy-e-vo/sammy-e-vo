@@ -4,11 +4,15 @@
 
 <br/>
 
-<img src="sammy.png" height="150" />
+<img src="sammy.png" height="160" />
 
-<br/>
+<br/><br/>
 
-🍑 **georgia girl** &nbsp;·&nbsp; 🎓 **uga cs + cognitive science** &nbsp;·&nbsp; ⚡ **tpm @ aws** &nbsp;·&nbsp; 🎶 **swiftie forever** &nbsp;·&nbsp; 🎀 **fancy & fun**
+![georgia girl](https://img.shields.io/badge/🍑-georgia%20girl-f9a8d4?style=for-the-badge&labelColor=fce7f3&color=f9a8d4)
+![uga](https://img.shields.io/badge/🎓-uga%20cs%20%2B%20cognitive%20science-c4b5fd?style=for-the-badge&labelColor=f5f3ff&color=c4b5fd)
+![aws](https://img.shields.io/badge/⚡-tpm%20%40%20aws-93c5fd?style=for-the-badge&labelColor=eff6ff&color=93c5fd)
+![swiftie](https://img.shields.io/badge/🎶-swiftie%20forever-fde68a?style=for-the-badge&labelColor=fffbeb&color=fde68a)
+![fancy](https://img.shields.io/badge/🎀-fancy%20%26%20fun-86efac?style=for-the-badge&labelColor=f0fdf4&color=86efac)
 
 <br/>
 
@@ -18,8 +22,17 @@
 
 ### my eras ✦
 
-| 🌊 1989 | 🐍 reputation | 🌙 midnights | 🪶 ttpd | 🍂 evermore |
-|:---:|:---:|:---:|:---:|:---:|
+![1989](https://img.shields.io/badge/🌊-1989-93c5fd?style=for-the-badge&labelColor=eff6ff&color=93c5fd)
+![reputation](https://img.shields.io/badge/🐍-reputation-c4b5fd?style=for-the-badge&labelColor=f3f0ff&color=a78bfa)
+![midnights](https://img.shields.io/badge/🌙-midnights-a5b0e0?style=for-the-badge&labelColor=eef0fa&color=a5b0e0)
+![ttpd](https://img.shields.io/badge/🪶-ttpd-d4d4d4?style=for-the-badge&labelColor=fafafa&color=d4d4d4)
+![evermore](https://img.shields.io/badge/🍂-evermore-c8a87a?style=for-the-badge&labelColor=f5f0e8&color=c8a87a)
+
+<br/>
+
+### sammy's stats ✦
+
+![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammy-e-vo&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff5fd&title_color=c026a0&icon_color=a78bfa&text_color=7c3aed)
 
 <br/>
 
