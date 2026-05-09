@@ -1,0 +1,28 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .s1 { animation: twinkle 2.1s ease-in-out infinite; }
+    .s2 { animation: twinkle 2.8s ease-in-out infinite 0.4s; }
+    .s3 { animation: twinkle 1.9s ease-in-out infinite 0.9s; }
+    .s4 { animation: twinkle 2.5s ease-in-out infinite 0.2s; }
+    .s5 { animation: twinkle 3.1s ease-in-out infinite 0.7s; }
+    .s6 { animation: twinkle 2.3s ease-in-out infinite 1.2s; }
+    .s7 { animation: twinkle 2.7s ease-in-out infinite 0.5s; }
+    .s8 { animation: twinkle 2.0s ease-in-out infinite 1.5s; }
+    .s9 { animation: twinkle 3.3s ease-in-out infinite 0.3s; }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.3; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
+  </style>
+  <text class="s1" x="40" y="38" font-size="22" text-anchor="middle" font-family="serif">⭐</text>
+  <text class="s2" x="110" y="32" font-size="14" text-anchor="middle" font-family="serif" fill="#c4b5fd">✦</text>
+  <text class="s3" x="180" y="40" font-size="22" text-anchor="middle" font-family="serif">🌟</text>
+  <text class="s4" x="250" y="30" font-size="14" text-anchor="middle" font-family="serif" fill="#f0abcf">✧</text>
+  <text class="s5" x="320" y="38" font-size="22" text-anchor="middle" font-family="serif">⭐</text>
+  <text class="s6" x="390" y="32" font-size="14" text-anchor="middle" font-family="serif" fill="#c4b5fd">✦</text>
+  <text class="s7" x="460" y="40" font-size="22" text-anchor="middle" font-family="serif">🌟</text>
+  <text class="s8" x="530" y="30" font-size="14" text-anchor="middle" font-family="serif" fill="#f0abcf">✧</text>
+  <text class="s9" x="600" y="38" font-size="22" text-anchor="middle" font-family="serif">⭐</text>
+  <text class="s1" x="670" y="32" font-size="14" text-anchor="middle" font-family="serif" fill="#c4b5fd">✦</text>
+  <text class="s3" x="740" y="40" font-size="22" text-anchor="middle" font-family="serif">🌟</text>
+</svg>
