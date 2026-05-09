@@ -4,13 +4,15 @@
 
 <br/>
 
-<img src="sammy.png" height="150" />
-
-⭐ ✦ 🌟 ✦ ⭐ ✦ 🌟 ✦ ⭐
+![stars](https://raw.githubusercontent.com/sammy-e-vo/sammy-e-vo/main/stars.svg)
 
 <br/>
 
-![georgia](https://img.shields.io/badge/%F0%9F%8D%91%20georgia%20girl-f0abcf?style=flat-square&logoColor=white)
+<img src="https://raw.githubusercontent.com/sammy-e-vo/sammy-e-vo/main/sammy.png" height="150" />
+
+<br/>
+
+![georgia](https://img.shields.io/badge/%F0%9F%8D%91%20georgia%20girl-f0abcf?style=flat-square)
 ![uga](https://img.shields.io/badge/%F0%9F%8E%93%20uga%20cs%20%2B%20cognitive%20science-c4b5fd?style=flat-square)
 ![aws](https://img.shields.io/badge/%E2%9A%A1%20tpm%20%40%20aws-93c5fd?style=flat-square)
 ![swiftie](https://img.shields.io/badge/%F0%9F%8E%B6%20swiftie%20forever-fcd34d?style=flat-square)
